@@ -27,6 +27,6 @@ C:\Work\Visual Studio 2013\Projects\Invitation_Tutorial\Invitation_Tutorial\bin\
 C:\Work\Visual Studio 2013\Projects\Invitation_Tutorial\Invitation_Tutorial\bin\System.Web.WebPages.xml
 C:\Work\Visual Studio 2013\Projects\Invitation_Tutorial\Invitation_Tutorial\bin\System.Web.WebPages.Deployment.xml
 C:\Work\Visual Studio 2013\Projects\Invitation_Tutorial\Invitation_Tutorial\bin\System.Web.WebPages.Razor.xml
-C:\Work\Visual Studio 2013\Projects\Invitation_Tutorial\Invitation_Tutorial\obj\Debug\Invitation_Tutorial.csprojResolveAssemblyReference.cache
 C:\Work\Visual Studio 2013\Projects\Invitation_Tutorial\Invitation_Tutorial\obj\Debug\Invitation_Tutorial.dll
 C:\Work\Visual Studio 2013\Projects\Invitation_Tutorial\Invitation_Tutorial\obj\Debug\Invitation_Tutorial.pdb
+C:\Work\Visual Studio 2013\Projects\Invitation_Tutorial\Invitation_Tutorial\obj\Debug\Invitation_Tutorial.csprojResolveAssemblyReference.cache
