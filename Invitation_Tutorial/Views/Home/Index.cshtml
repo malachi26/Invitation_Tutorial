@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div>
+        @ViewBag.Greeting World (from the view)
+        <p>
+            We're going to have an exciting party. <br />
+            (To do: sell it better. Add pictures or something)
+        </p>
+        @Html.ActionLink("RSVP Now", "RsvpForm")
+    </div>
